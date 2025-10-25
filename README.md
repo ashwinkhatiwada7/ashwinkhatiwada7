@@ -4,7 +4,7 @@
 <!-- 🎓 I’m currently working on **[Your Project Name or Tech Focus]** -->
 - 🌱 I’m currently learning NextJS as a full stack
 
-- 📫 How to reach me: ashwinkhatiwada@gmail.com
+- 📫 How to reach me: ashwinkhatiwoda@gmail.com
 - ⚡ Fun fact: HEHEHEHHEHEHEHEHE
 
 ## 🚀 Tech Stack
