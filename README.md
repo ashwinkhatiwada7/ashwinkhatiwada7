@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning NextJS as a full stack
 
 - 📫 How to reach me: ashwinkhatiwoda@gmail.com
-- ⚡ Fun fact: HEHEHEHHEHEHEHEHE
+- ⚡ Fun fact: !Consistency Matters
 
 ## 🚀 Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
