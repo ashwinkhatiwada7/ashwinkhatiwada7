@@ -4,11 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Next.js+Full+Stack+Developer;React+%7C+Next.js+%7C+AWS+Learner;Building+Modern+Web+Applications;Always+Learning+New+Technologies+🚀" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github" />
-
 </div>
 
 ---
@@ -83,25 +78,12 @@
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&border_radius=10" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&border_radius=10" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&border_radius=10" />
-
-</div>
-
----
 
 # 🧠 Fun Fact
 
 <div align="center">
 
-### 🚀 I can spend hours fixing one tiny Next.js bug… and still enjoy the process 😅
+### 🚀 I have spend hours fixing one Next.js bug… and still enjoy the process 😅
 
 </div>
 
@@ -111,15 +93,15 @@
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/ashwinkhatiwada7">
   <img src="https://skillicons.dev/icons?i=github" height="60" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://linkedin.com/in/ashwinkhatiwada7">
   <img src="https://skillicons.dev/icons?i=linkedin" height="60" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:ashwinkhatiwada555@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="60" />
 </a>
 
